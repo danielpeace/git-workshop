@@ -1,5 +1,7 @@
 # Git and GitHub Workshop
 
+Changes to commit
+
 ## git
 
 git is a version control software.
